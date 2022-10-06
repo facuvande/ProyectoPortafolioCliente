@@ -351,7 +351,7 @@ and (max-device-width: 1600px)
 
 @media (max-width: 991px) {
     #nav{
-        width: 0px;
+        width: 300px;
     }
     .navbar ul{
         position: fixed;
@@ -359,7 +359,7 @@ and (max-device-width: 1600px)
         width: 250px;
         height: 100vh;
         top: 0;
-        right: -250px;
+        right: -350px;
         padding: 40px;
         z-index: 1;
         transition:  all 300ms;

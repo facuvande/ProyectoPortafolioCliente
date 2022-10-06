@@ -38,6 +38,6 @@ function mostrar_menu(){
 }
 
 function ocultar_menu(){
-    nav.style.right = "-250px";
+    nav.style.right = "-350px";
     background_menu.style.display = "none";
 }
