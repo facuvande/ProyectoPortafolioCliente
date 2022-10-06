@@ -326,7 +326,18 @@ section {
 
 /* Responsive */
 
+/* Responsive */
+
+@media (max-width: 1409px){
+    #nav{
+        width: 1300px;
+    }
+}
+
 @media (max-width: 991px) {
+    #nav{
+        width: 0px;
+    }
     .navbar ul{
         position: fixed;
         background: white;
